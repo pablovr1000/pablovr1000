@@ -4,8 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablovr1000&label=Profile%20views&color=0e75b6&style=flat" alt="pablovr1000" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pablovasconcelos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablovasconcelos" height="30" width="40" /></a>
+  <p align="left">
+    <a href="https://github.com/pablovr1000" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+  </a> 
+  <a href="https://www.instagram.com/pablovr20/" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+  </a> 
+  <a href="https://www.facebook.com/pablo.vasconcelosrios/" target="_blank">
+    <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
+  </a> 
+  <a href="https://www.linkedin.com/in/pablovasconcelos/" target="_blank">
+    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
