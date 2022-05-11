@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Pablo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Atualmente atuo como analista de suporte na Stefanini e estudo desenvolvimento Full-Stack na @beTrybe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablovr1000&label=Profile%20views&color=0e75b6&style=flat" alt="pablovr1000" /> </p>
 
