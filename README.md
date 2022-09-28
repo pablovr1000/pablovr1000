@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Pablo</h1>
-<h3 align="center">Atualmente atuo como analista de suporte na <a href="https://stefanini.com/pt-br" target="_blank">Stefanini</a> e atuo como desenvovedor estudante Full-Stack na <a href="https://www.betrybe.com/" target="_blank">@beTrybe</a></h3>
+<h3 align="center">Atualmente atuo como analista de suporte na <a href="https://stefanini.com/pt-br" target="_blank">Stefanini</a> e atuo como desenvolvedor estudante Full-Stack na <a href="https://www.betrybe.com/" target="_blank">@beTrybe</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablovr1000&label=Profile%20views&color=0e75b6&style=flat" alt="pablovr1000" /> </p>
 
